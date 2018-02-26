@@ -14,6 +14,7 @@
     * [体验金](jiang-li-guan-li/ti-yan-jin.md)
     * [话费券](jiang-li-guan-li/hua-fei-quan.md)
     * [话费](jiang-li-guan-li/hua-fei.md)
+  * [奖励列表](jiang-li-guan-li/jiang-li-lie-biao.md)
 * [功能管理](gong-neng-guan-li.md)
 * [规则管理](gui-ze-guan-li.md)
 * [活动管理](huo-dong-guan-li.md)
