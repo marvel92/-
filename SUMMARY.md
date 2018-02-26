@@ -24,8 +24,15 @@
     * 回款
     * 分享
 * [规则管理](gui-ze-guan-li.md)
+  * [组合添加](gui-ze-guan-li/zu-he.md)
+  * 组合列表
 * [活动管理](huo-dong-guan-li.md)
+  * 活动添加
+  * 活动列表
 * [奖励记录](jiang-li-ji-lu.md)
+  * 奖励发放记录查询
+  * 奖励触发记录查询
+  * 奖励待发放查询
 
 ## Methods
 
