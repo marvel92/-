@@ -16,6 +16,9 @@
     * [话费](jiang-li-guan-li/hua-fei.md)
   * [奖励列表](jiang-li-guan-li/jiang-li-lie-biao.md)
 * [功能管理](gong-neng-guan-li.md)
+  * [功能添加](gong-neng-guan-li/gong-neng-tian-jia.md)
+    * 实名
+    * 注册
 * [规则管理](gui-ze-guan-li.md)
 * [活动管理](huo-dong-guan-li.md)
 * [奖励记录](jiang-li-ji-lu.md)
