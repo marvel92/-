@@ -19,6 +19,10 @@
   * [功能添加](gong-neng-guan-li/gong-neng-tian-jia.md)
     * 实名
     * 注册
+    * 充值
+    * 投资
+    * 回款
+    * 分享
 * [规则管理](gui-ze-guan-li.md)
 * [活动管理](huo-dong-guan-li.md)
 * [奖励记录](jiang-li-ji-lu.md)
