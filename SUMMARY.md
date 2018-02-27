@@ -5,7 +5,8 @@
 * [My Awesome API](README.md)
 * [引言](yin-yan.md)
   * [编写目的](yin-yan/a.md)
-  * 术语和缩写词
+  * [术语和缩写词](yin-yan/zhu-yu-he-suo-xie-ci.md)
+  * [活动流程](yin-yan/huo-dong-liu-cheng.md)
 * [奖励管理](jiang-li-guan-li.md)
   * [奖励添加](jiang-li-guan-li/jiang-li-tian-jia.md)
     * [财币](jiang-li-guan-li/cai-bi.md)
