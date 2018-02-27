@@ -6,20 +6,20 @@
 * [引言](yin-yan.md)
   * [编写目的](yin-yan/a.md)
   * [术语和缩写词](yin-yan/zhu-yu-he-suo-xie-ci.md)
-  * [活动流程](yin-yan/huo-dong-liu-cheng.md)
+  * [活动上线流程](yin-yan/huo-dong-liu-cheng.md)
 * [奖励管理](jiang-li-guan-li.md)
   * [奖励添加](jiang-li-guan-li/jiang-li-tian-jia.md)
     * [财币](jiang-li-guan-li/cai-bi.md)
-    * [加息券](jiang-li-guan-li/xian-jin-quan/jia-xi-quan.md)
     * [现金券](jiang-li-guan-li/xian-jin-quan.md)
+    * [加息券](jiang-li-guan-li/xian-jin-quan/jia-xi-quan.md)
     * [体验金](jiang-li-guan-li/ti-yan-jin.md)
     * [话费券](jiang-li-guan-li/hua-fei-quan.md)
     * [话费](jiang-li-guan-li/hua-fei.md)
   * [奖励列表](jiang-li-guan-li/jiang-li-lie-biao.md)
 * [功能管理](gong-neng-guan-li.md)
   * [功能添加](gong-neng-guan-li/gong-neng-tian-jia.md)
-    * 实名
     * 注册
+    * 实名
     * 充值
     * 投资
     * 回款
