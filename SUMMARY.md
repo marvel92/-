@@ -29,7 +29,7 @@
   * [组合添加](gui-ze-guan-li/zu-he.md)
   * 组合列表
 * [活动管理](huo-dong-guan-li.md)
-  * 活动添加
+  * [活动添加](huo-dong-guan-li/huo-dong-tian-jia.md)
   * [活动列表](huo-dong-guan-li/huo-dong-lie-biao.md)
   * [活动审核](huo-dong-guan-li/huo-dong-shen-he.md)
 * [奖励记录](jiang-li-ji-lu.md)
