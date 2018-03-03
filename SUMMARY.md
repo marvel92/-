@@ -33,7 +33,7 @@
   * [活动列表](huo-dong-guan-li/huo-dong-lie-biao.md)
   * 活动审核
 * [奖励记录](jiang-li-ji-lu.md)
-  * 奖励发放记录查询
+  * [奖励发放记录查询](jiang-li-ji-lu/jiang-li-fa-fang-ji-lu-cha-xun.md)
   * 奖励触发记录查询
   * 奖励待发放查询
 
