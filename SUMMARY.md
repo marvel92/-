@@ -31,11 +31,11 @@
 * [活动管理](huo-dong-guan-li.md)
   * 活动添加
   * [活动列表](huo-dong-guan-li/huo-dong-lie-biao.md)
-  * 活动审核
+  * [活动审核](huo-dong-guan-li/huo-dong-shen-he.md)
 * [奖励记录](jiang-li-ji-lu.md)
   * [奖励发放记录查询](jiang-li-ji-lu/jiang-li-fa-fang-ji-lu-cha-xun.md)
-  * [奖励触发记录查询](jiang-li-ji-lu/jiang-li-hong-fa-ji-lu-cha-xun.md)
-  * 奖励待发放查询
+  * 奖励触发记录查询
+  * [奖励待发放查询](jiang-li-ji-lu/jiang-li-dai-fa-fang-cha-xun.md)
 
 ## Methods
 
