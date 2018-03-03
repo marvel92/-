@@ -27,7 +27,7 @@
     * 分享
 * [规则管理](gui-ze-guan-li.md)
   * [组合添加](gui-ze-guan-li/zu-he.md)
-  * 组合列表
+  * [组合列表](gui-ze-guan-li/zu-he-lie-biao.md)
 * [活动管理](huo-dong-guan-li.md)
   * [活动添加](huo-dong-guan-li/huo-dong-tian-jia.md)
   * [活动列表](huo-dong-guan-li/huo-dong-lie-biao.md)
