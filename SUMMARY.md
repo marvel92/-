@@ -32,9 +32,9 @@
   * [活动添加](huo-dong-guan-li/huo-dong-tian-jia.md)
   * [活动列表](huo-dong-guan-li/huo-dong-lie-biao.md)
   * [活动审核](huo-dong-guan-li/huo-dong-shen-he.md)
-  * [话术列表](huo-dong-guan-li/hua-zhu-guan-li.md)
+  * [话术列表？](huo-dong-guan-li/hua-zhu-guan-li.md)
     * 话术编辑
-  * [链接列表](huo-dong-guan-li/lian-jie-lie-biao.md)
+  * [链接列表？](huo-dong-guan-li/lian-jie-lie-biao.md)
     * 链接编辑
 * [奖励记录](jiang-li-ji-lu.md)
   * [奖励发放记录查询](jiang-li-ji-lu/jiang-li-fa-fang-ji-lu-cha-xun.md)
