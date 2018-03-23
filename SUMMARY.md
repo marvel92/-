@@ -8,6 +8,7 @@
   * [术语和缩写词](yin-yan/zhu-yu-he-suo-xie-ci.md)
   * [活动上线流程](yin-yan/huo-dong-liu-cheng.md)
   * [活动审批上线审批单](yin-yan/huo-dong-shen-pi-shang-xian-shen-pi-dan.md)
+  * [上线核对](yin-yan/shang-xian-he-dui.md)
 * [奖励管理](jiang-li-guan-li.md)
   * [奖励添加](jiang-li-guan-li/jiang-li-tian-jia.md)
     * [财币](jiang-li-guan-li/cai-bi.md)
