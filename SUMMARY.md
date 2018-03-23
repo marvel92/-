@@ -42,6 +42,8 @@
   * [奖励发放记录查询](jiang-li-ji-lu/jiang-li-fa-fang-ji-lu-cha-xun.md)
   * 奖励触发记录查询
   * [奖励待发放查询](jiang-li-ji-lu/jiang-li-dai-fa-fang-cha-xun.md)
+  * [审核流程](shen-he-liu-cheng-guan-li.md)
+    * [审核流程管理](shen-he-liu-cheng-guan-li/shen-he-liu-cheng-guan-li.md)
 
 ## Methods
 
