@@ -20,6 +20,9 @@
     * [话费券](jiang-li-guan-li/hua-fei-quan.md)
     * [虚拟物品](jiang-li-guan-li/xu-ni-wu-pin.md)
   * [奖励列表](jiang-li-guan-li/jiang-li-lie-biao.md)
+* [规则管理](gui-ze-guan-li.md)
+  * [组合添加](gui-ze-guan-li/zu-he.md)
+  * [组合列表](gui-ze-guan-li/zu-he-lie-biao.md)
 * [功能管理](gong-neng-guan-li.md)
   * [功能添加](gong-neng-guan-li/gong-neng-tian-jia.md)
     * 注册
@@ -28,9 +31,7 @@
     * 投资
     * 回款
     * 分享
-* [规则管理](gui-ze-guan-li.md)
-  * [组合添加](gui-ze-guan-li/zu-he.md)
-  * [组合列表](gui-ze-guan-li/zu-he-lie-biao.md)
+  * 功能列表
 * [活动管理](huo-dong-guan-li.md)
   * [活动添加](huo-dong-guan-li/huo-dong-tian-jia.md)
   * [活动列表](huo-dong-guan-li/huo-dong-lie-biao.md)
