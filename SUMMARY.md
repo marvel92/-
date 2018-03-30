@@ -21,7 +21,7 @@
   * [奖励列表](jiang-li-guan-li/jiang-li-lie-biao.md)
 * [功能管理](gong-neng-guan-li.md)
   * [功能添加](gong-neng-guan-li/gong-neng-tian-jia.md)
-    * 注册
+    * [注册](gong-neng-guan-li/gong-neng-tian-jia/zhu-ce.md)
     * 实名
     * 充值
     * 投资
