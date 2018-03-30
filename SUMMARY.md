@@ -22,8 +22,8 @@
 * [功能管理](gong-neng-guan-li.md)
   * [功能添加](gong-neng-guan-li/gong-neng-tian-jia.md)
     * [注册](gong-neng-guan-li/gong-neng-tian-jia/zhu-ce.md)
-    * 实名
-    * 充值
+    * [实名](gong-neng-guan-li/gong-neng-tian-jia/shi-ming.md)
+    * [充值](gong-neng-guan-li/gong-neng-tian-jia/chong-zhi.md)
     * 投资
     * 回款
     * 分享
