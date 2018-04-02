@@ -25,12 +25,12 @@
   * [组合列表](gui-ze-guan-li/zu-he-lie-biao.md)
 * [功能管理](gong-neng-guan-li.md)
   * [功能添加](gong-neng-guan-li/gong-neng-tian-jia.md)
-    * 注册
+    * [注册](gong-neng-guan-li/gong-neng-tian-jia/zhu-ce.md)
     * 实名
-    * 充值
-    * 投资
-    * 回款
-    * 分享
+    * [充值](gong-neng-guan-li/gong-neng-tian-jia/chong-zhi.md)
+    * [投资](gong-neng-guan-li/gong-neng-tian-jia/tou-zi.md)
+    * [回款](gong-neng-guan-li/gong-neng-tian-jia/hui-kuan.md)
+    * [分享](gong-neng-guan-li/gong-neng-tian-jia/fen-xiang.md)
   * 功能列表
 * [活动管理](huo-dong-guan-li.md)
   * [活动添加](huo-dong-guan-li/huo-dong-tian-jia.md)
