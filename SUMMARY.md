@@ -31,7 +31,7 @@
     * [投资](gong-neng-guan-li/gong-neng-tian-jia/tou-zi.md)
     * [回款](gong-neng-guan-li/gong-neng-tian-jia/hui-kuan.md)
     * [分享](gong-neng-guan-li/gong-neng-tian-jia/fen-xiang.md)
-  * 功能列表
+  * [功能列表](gong-neng-guan-li/gong-neng-lie-biao.md)
 * [活动管理](huo-dong-guan-li.md)
   * [活动添加](huo-dong-guan-li/huo-dong-tian-jia.md)
   * [活动列表](huo-dong-guan-li/huo-dong-lie-biao.md)
